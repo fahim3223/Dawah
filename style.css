@@ -1,0 +1,15 @@
+h1{color: blue;}
+#f{color: brown;
+font-family: 'Courier New', Courier, monospace;
+font-size: 30px;}
+.mn{color: #023c0c;
+font-weight: bold;
+font-size: 10px;}
+
+.dd{color: rgb(61, 61, 60);
+font-style: oblique;
+font-family: 'Courier New', Courier, monospace;
+font-size: 8px;}
+.ttt{
+background-position: 50% 50%;}
+.hh{background-position: center;}
